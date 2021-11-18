@@ -1,0 +1,4 @@
+ad_manager:
+  application_name: "GAM API"
+  network_code: "21707114005"
+  path_to_private_key_file: /home/edgar/Desktop/projects/google-sdk-python/sdks/google/api-steps-backend/private-key.json

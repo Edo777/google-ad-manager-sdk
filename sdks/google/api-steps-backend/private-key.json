@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "waterfall-180605",
+    "private_key_id": "4504c04d0499a997378ba377a73e623d66cbb34f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyxdJ8y5S39jis\ngpiWDfw9kImZ76FuqmjdzMm734qMQzpBLl8htd48DIlDzyk3D0ZyoJh0rQyr/xmr\nEcqb8FB46snRAVJdN2t2+CP67H1HjaatnaiRhLtvyjCiH3OFH96C8E6I06UYONnt\n86LfAuwfzma+qjR2jnAoV7JaQffR6iAqix2dNPOgjVlTm49l+KtLr4FpL0BMXRk5\nRXwUUs1VRP/sfEon8jQm/tyvodG6FMPrTpfHj/5P6teA7BQ3f0CrLI9C8MnHHIVM\nN1ZMSucaA8yrJZwLwX/+8XzwjBsjJb+w1jaRprOqXzvLB9MfPUnTkAMAnt4sivrz\nTqfRE7ljAgMBAAECggEABWaO1ctL+loQsJF0wkUOON6RcZo4zRWOe8jbJ/b4V1q+\nkJ0x2DGyKCvpclLN+BuuMU9NsRSl5y+ahb2mBRuiQAzjvOcmfFTCGoLONMnefQIN\nUNMMS8fFO9Ams6HHRR8cgzshkZDx51nsUiZukKskw/nhxmJw7vXy8x0McR1AuybO\naVJyU7o0ZT6/zgdvoaFRAC7o8oSRp6acKsLqtF0s8eDPuWbQBl1AdwHHD/YYGVkx\n/LY43F+Do5yKwPPIoOE3I7XIYsCNqyge9DWIhTwO4f7wkiDy+XiCRiBXMBEq7qux\n/W3PDVz7SdGV4y2ow9aFbS+1f4PL7hsjEHEpn2DYjQKBgQDdjGGlGROP34CQ8f72\nqSIHvdPp99MgXHQFib5fvmx3BL7r6Xj07wN5VtH9sqHSsZvCHHAUn0vSJgKj1YYH\nv9Da6HRI6dOirdj2hWXSo2XpCORYHZiFuuYfh4phXo05ProgH9fOBQ7FMwVS40pF\nZGeOS5XjHOEXmLqcSXYdCU5SdQKBgQDOkpYLjiA1xYOFMYtQVytWZySRErqaGdBR\nNTIOAtvubvwZBu4zhBC8uCLy5Ehgg5i1L6BDw7opIV8BoTNJWTUQn6rACj8Va+qP\nkw4xWENvB0ELSnCa/e6nkOdmr6sB5PFTAKFrerlAMMSEA571hJ6da20uXT+wpsUT\nqDNDDfcxdwKBgQCbnydbxECUeEekCQiylN2dmH8JwxYfjjHFThtWv7kK5V+C8S4Q\nxu+mxRCeZ2L6T938POOR6M9mn2KNWMhcGyYHDu/X47/QbtOPXubGThag2akkKC3i\nCgXpsdjHSpZi1qgBNrztL2pPpOYhchzSn5OKRZfUv41xeMvkSknYXZgRnQKBgHAZ\nA+uJWNlVMaXZ2OvkIdRlbGZ9b12onG81GtCXpJmjCJLcO+8gv6RpmC2Oy+f0Aa5x\nBdtAH4mqXlAYFii7jBxVSOelp84MHeGDv7PvXcimexmRb8HsAtJTw/7pXTdN8ddF\nBFO66UR4MmwhOuWo7hom7by3RZSrK08be5XrwjTJAoGBAL9Dg5V/soSpIB8pcfAZ\nIpvVkv603/jVDboj4a4JxGjt7n0otC9OJsL84hCym5FRUvARzZI1I37UaQzuISCd\n9mHvK3YILniWUm/qn093iXkR8DQloxxH2+Pj5FtyBuT3PEO5IG9m19O0Gahg9jjJ\n4oVTKGaY/cvS/3UN3yM9DbMv\n-----END PRIVATE KEY-----\n",
+    "client_email":"gam-api@waterfall-180605.iam.gserviceaccount.com",
+    "client_id": "108542428581104932893",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gam-api%40waterfall-180605.iam.gserviceaccount.com"
+  }
